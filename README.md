@@ -8,6 +8,7 @@ Hello everyone, my name is James Castro, and I am about to graduate with my degr
 - 💻 **Key Interests:** Cloud Security, Python, Penetration Testing, AI, and Automation.  
 
 ## Featured Projects  
+- **Lead Rina's Traditions Security Engineer** Volunteer position, in charge of all security operations.
 - **Knight's Quest** – A **Python-based text game** that gamifies productivity by rewarding daily accomplishments.  
 - **Practice Port Scanner** – A **security-focused Python project** to expand my knowledge of networking and automation. *(In progress.)*  
 
