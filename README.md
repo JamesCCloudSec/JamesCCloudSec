@@ -1,4 +1,5 @@
 # James Castro's Cybersecurity Portfolio  
+## 🔐 CompTIA Security+ Certified | Cloud Security Focus | Field-Tested Operator
 Hello everyone, my name is James Castro, and I am about to graduate with my degree in cybersecurity. I specialize in **cloud security**, with a focus on **engineering and automation**. I am passionate about the field and excited to contribute for decades to come.
 
 ## 🔹 About Me  
