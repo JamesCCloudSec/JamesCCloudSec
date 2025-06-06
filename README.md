@@ -1,10 +1,11 @@
-# James Castro's Cybersecurity Portfolio  
-## 🔐 CompTIA Security+ Certified | Cloud Security Focus | Field-Tested Operator
+# James Castro's Cybersecurity Portfolio ![Security+ Certified](https://img.shields.io/badge/Security%2B-Certified-brightgreen)
+**CompTIA Security+ Certified | Cloud Security Focus | Field-Tested Operator**
+
 Hello everyone, my name is James Castro, and I am about to graduate with my degree in cybersecurity. I specialize in **cloud security**, with a focus on **engineering and automation**. I am passionate about the field and excited to contribute for decades to come.
 
 ## 🔹 About Me  
 - 🎓 **Cybersecurity student at Rogue Community College**  
-- 🏆 **Security+ Certification in progress (DONE)** – **UPDATE: Certificate Obtained! 6/4/25**
+- 🏆 **Security+ Certification Obtained: 6/4/25**
 - ☁️ **Future AWS Cloud Security Specialty** – I plan to earn this certification by **June 2026** and obtain it's predecessors in the meantime.
 - 💻 **Key Interests:** Cloud Security, Python, Penetration Testing, AI, and Automation.  
 
