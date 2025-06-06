@@ -25,9 +25,9 @@ Hello everyone, my name is James Castro, and I am about to graduate with my degr
 
 ## Connect With Me  
 - **Email:** jamesc.cloudsec@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/feed/?trk=registration-frontend
 - **YouTube:** JamesCCloudSec
-- **LinkedIn:**
-- **Blog:** 
+- **Blog:** In Progress
 
 
 
