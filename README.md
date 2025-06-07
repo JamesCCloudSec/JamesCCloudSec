@@ -11,6 +11,7 @@ Hello everyone, my name is James Castro, and I am about to graduate with my degr
 
 ## Featured Projects  
 - **Lead Rina's Traditions Security Engineer** - Volunteer position, in charge of all security operations.
+- **NEW and in the works: Osteria La Briccola Security Survey** - Volunteer position, overview on-site security posture, penetration test, and offer security solutions. - **Start Date: Unknown**
 - **Toolkit** - Hand designed security toolkit that covers most aspects of a professionals career, if not all.
 - **Practice Port Scanner** – A **security-focused Python project** to expand my knowledge of networking and automation. *(In progress.)*
 
