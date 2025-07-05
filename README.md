@@ -9,10 +9,11 @@ Cloud Security Engineer and Information Security Consultant specializing in infr
 ## Professional Summary
 | | |
 |---|---|
-| **Roles** | • Security Operations Lead — Osteria La Briccola <br>• Security Consultant — Rina’s Traditions Sauce Company |
+| **Roles** | • [Security Operations Lead — Osteria La Briccola](https://github.com/JamesCCloudSec/Osteria-La-Briccola-Security) <br>• [Security Consultant — Rina’s Traditions Sauce Company](https://github.com/JamesCCloudSec/Rinas-traditions-security) |
 | **Certifications** | CompTIA Security+ (active) |
 | **Certs in Progress** | AWS Solutions Architect – Associate (target: Dec 2025)<br>AWS Security Specialty (target: Jun 2026) |
 | **Core Strengths** | System segmentation, remote access security, encrypted workflows, Python scripting, executive communication |
+
 
 ---
 
