@@ -1,35 +1,56 @@
-# James Castro's Cybersecurity Portfolio ![Security+ Certified](https://img.shields.io/badge/Security%2B-Certified-brightgreen)
-**CompTIA Security+ Certified | Cloud Security Focus | Field-Tested Operator**
+# James Castro  |  Security+ | Cloud Security Engineer
 
-Hello everyone, my name is James Castro, and I am about to graduate with my degree in cybersecurity. I specialize in **cloud security**, with a focus on **engineering and automation**. I am passionate about the field and excited to contribute for decades to come.
+![Security+ Badge](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-brightgreen)
 
-## 🔹 About Me  
-- 🎓 **Cybersecurity student at Rogue Community College**  
-- 🏆 **Security+ Certification Obtained: 6/4/25**
-- ☁️ **Future AWS Cloud Security Specialty** – I plan to earn this certification by **June 2026** and obtain it's predecessors in the meantime.
-- 💻 **Key Interests:** Cloud Security, Python, Penetration Testing, AI, and Automation.  
+Cloud Security Engineer and Information Security Consultant specializing in infrastructure hardening, secure automation, and strategic risk reduction. My work spans on-site engagements, remote threat detection, and cloud architecture resilience—backed by hands-on delivery and technical precision.
 
-## Featured Projects  
-- **Lead Rina's Traditions Security Engineer** - Volunteer position, in charge of all security operations.
-- **NEW and in the works: Osteria La Briccola Security Survey** - Volunteer position, overview on-site security posture, penetration test, and offer security solutions. - **Start Date: Unknown**
-- **Toolkit** - Hand designed security toolkit that covers most aspects of a professionals career, if not all.
-- **Practice Port Scanner** – A **security-focused Python project** to expand my knowledge of networking and automation. *(In progress.)*
+---
 
-## Learning & Goals  
-- ✅ **Graduate with my degree** – **June 11, 2025**  
-- ✅ **Earn Security+ Certification** – **COMPLETED, JUNE 4th, 2025**
-- ✅ **Earn AWS Certified Solutions Architect** - **December 2025**
-- ✅ **Earn AWS Certified Security Specialty** – **June 2026**  
-- ✅ **Expand GitHub portfolio** with security related content 
-- ✅ **Gain hands-on experience** by volunteering, bug bounties, CTFs, internships, and home lab projects  
-- ✅ **Master Python** for automation and security applications  
+## Professional Summary
+| | |
+|---|---|
+| **Roles** | • Security Operations Lead — Osteria La Briccola <br>• Security Consultant — Rina’s Traditions Sauce Company |
+| **Certifications** | CompTIA Security+ (active) |
+| **Certs in Progress** | AWS Solutions Architect – Associate (target: Dec 2025)<br>AWS Security Specialty (target: Jun 2026) |
+| **Core Strengths** | System segmentation, remote access security, encrypted workflows, Python scripting, executive communication |
 
-## Connect With Me  
-- **Email:** jamesc.cloudsec@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/feed/?trk=registration-frontend
-- **YouTube:** JamesCCloudSec
-- **Blog:** In Progress
+---
 
+## Technical Focus Areas
+- **Cloud Security & Architecture** – Secure deployment design, IAM configuration, encrypted backups, infrastructure automation  
+- **Endpoint & Network Defense** – Traffic analysis, segmentation, device hardening, VPN and firewall policy enforcement  
+- **Incident Response & Detection** – Real-world malware handling, recovery simulation, Wireshark/Nmap forensics, IOC sweeps  
+- **Security Policy & Compliance** – PCI DSS alignment, FTC Safeguards implementation, SOP creation, staff security training  
+- **Tooling & Automation** – Field-ready toolkit development, Python scripting, portable encryption workflows
 
+---
 
+## Selected Projects
 
+| Project | Scope & Results |
+|---|---|
+| **Rina’s Traditions Security Program** | Full-spectrum deployment: hardened business laptop, network segmentation, account lockdowns, encrypted data vaults, SOPs, VPN workflows. Achieved over 70% risk reduction and enabled long-term secure operations. |
+| **Osteria La Briccola Security Operations** | Current role focused on passive reconnaissance, vulnerability discovery, executive-level reporting, and multi-layered defense strategy for a high-traffic restaurant. |
+| **Field-Security Toolkit** | Developed a professional-grade, flash-drive-based toolkit with encryption capabilities, forensic tools, SOPs, disaster recovery playbooks, and audit logs. |
+| **Active Threat Discovery & Neutralization** | Detected and isolated a beaconing malware threat missed by AV and IDS. Initiated credential rotations, reinforced endpoint defense, and documented recovery process. |
+| **Python Security Tools** | Developing asynchronous network scanners and automation scripts to streamline reconnaissance and enforcement. Custom-coded for speed and portability. |
+
+---
+
+## Ongoing Objectives
+1. Advance certification path with cloud security focus (AWS Architect → AWS Security Specialty).  
+2. Expand GitHub with breach case studies, automation scripts, and open-source tooling.  
+3. Publish operator playbooks, phishing education modules, and forensic response walkthroughs.  
+4. Continue applied field work for businesses seeking budget-conscious, high-impact security solutions.
+
+---
+
+## Contact & Platforms
+- 📫 Email: jamesc.cloudsec@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jamesccloudsec)  
+- 🎬 YouTube: **JamesCCloudSec** – Educational walkthroughs, threat models, and security concepts  
+- 📝 Blog: *Coming soon*  
+
+---
+
+*This GitHub reflects a real-world portfolio of field-tested, security-focused work. No fluff, no guesswork—just measurable impact with open-source tooling and professional-grade execution.*
